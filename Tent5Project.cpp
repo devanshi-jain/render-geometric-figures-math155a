@@ -6,7 +6,7 @@
  * This starter code draws two tetrahedra instead, but has all
  * other required functionality.
  *
- * Author: Sam Buss
+ * Author: Sam Buss, Devanshi Jain
  *
  * Software is "as-is" and carries no warranty.  It may be used without
  *   restriction, but if you modify it, please change the filenames to
